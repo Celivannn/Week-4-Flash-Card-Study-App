@@ -25,7 +25,7 @@ The **Flash Card Study App** is a user-friendly tool designed to help users crea
    cd Flash-Card-Study-App
 3. Run the application
    ```bash
-   python FlashCardStudyApp.py
+   python app.py
 ## Usage
 1. **Launch the application.**
 2. **Create a folder:** Click on `Add Folder` and provide a folder name.
