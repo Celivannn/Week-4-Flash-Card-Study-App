@@ -18,7 +18,8 @@ The **Flash Card Study App** is a user-friendly tool designed to help users crea
 ### Steps
 1. Clone the repository or download the source code as a ZIP file.
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/Celivannn/Week-4-Flash-Card-Study-App.git
+
 2. Navigate to the directory.
    ```bash
    cd Flash-Card-Study-App
